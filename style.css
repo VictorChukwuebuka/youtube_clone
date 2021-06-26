@@ -19,8 +19,7 @@
     align-items: center;
     height: 70px;
     padding: 15px;
-    background-color: black;
-    
+    background-color:#ffffff;    
 }
 
 .header-left{
@@ -106,14 +105,14 @@
 
     hr{
         height: 1px;
-        background-color: white;
+        background-color: #ffffff;
         border: none;
     }
      
             /* videos */
 
             .videos{
-                background-color: lightgray;
+                background-color: #ffffff;
                 width: 100%;
                 height: 100%;
                 padding: 15pxx, 15px;
